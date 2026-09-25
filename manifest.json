@@ -1,0 +1,9 @@
+{
+  "name": "AI WAR 촬영 체크리스트",
+  "short_name": "촬영 체크",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7f8",
+  "theme_color": "#111827",
+  "icons": []
+}
